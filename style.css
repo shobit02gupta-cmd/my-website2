@@ -1,0 +1,38 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap:120px;
+    margin-left: 550px;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+nav{
+background-color: black;
+padding: 20px;
+}
+html{
+    scroll-behavior: smooth;
+}
+#home{
+    background-color: red;
+    text-align: center;
+}
+#about-us{
+    background-color: rgb(242, 0, 255);
+    text-align: center;
+}
+#contact{
+    background-color: yellowgreen;
+    text-align: center;
+}
+#project{
+    background-color: aqua;
+     text-align: center;
+}
+body{
+    background-color: pink;
+}
